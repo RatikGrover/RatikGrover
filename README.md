@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RatikGrover
-- 👀 I’m interested in c/c++ programming.
 - 🌱 I’m currently studying in VIPS delhi.
 - 📫 You can reach me on linkedin at RatikGrover...
 
